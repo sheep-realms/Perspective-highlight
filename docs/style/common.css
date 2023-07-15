@@ -2,6 +2,10 @@
     min-height: calc(100vh - 95px);
 } */
 
+.md-logo img {
+    image-rendering: pixelated;
+}
+
 ruby>span {
     display: inline-block;
     width: 0;
