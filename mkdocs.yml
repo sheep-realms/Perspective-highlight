@@ -109,3 +109,4 @@ nav:
 - 开发文档:
   - 前言: dev/index.md
   - 替换音符盒图标: dev/noteblock_icon.md
+- 设计指南: design/index.md

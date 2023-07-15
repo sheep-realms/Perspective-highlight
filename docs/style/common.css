@@ -37,6 +37,10 @@ ruby>span {
     color: #FFC105;
 }
 
+a.footnote-ref {
+    user-select: none;
+}
+
 a.footnote-ref::before {
     content: '[';
 }
