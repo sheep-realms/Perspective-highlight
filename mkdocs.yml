@@ -87,6 +87,8 @@ nav:
   - 总览: feature/index.md
   - GUI: feature/gui.md
   - 红石元件: feature/redstone.md
+  - 自发光: feature/emi.md
+  - 连接纹理: feature/ctm.md
 - 更新日志:
   - 所有更新日志:
     - 第五代（OptiFine支持版本）:
