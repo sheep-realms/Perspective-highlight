@@ -6,4 +6,26 @@
 
 ![夜间全家福](image/family_portraits_night.jpg)
 
-<!-- ## :material-sign-direction: 导航 -->
+## :material-sign-direction: 导航
+- [MCBBS](https://www.mcbbs.net/thread-867407-1-1.html)
+
+## :material-license: 授权协议
+- :fontawesome-regular-copyright: Copyright - 作者保留所有权利
+- :fontawesome-brands-creative-commons-by: Attribution - 署名（作者 / Author : Sheep-realms）
+- :fontawesome-brands-creative-commons-nc: Non Commercial - 非商业
+- :material-dots-horizontal: Additional Restrictions - 附加限制
+
+关于这个资源包的使用，您可以：
+
+- 下载并使用资源包。
+- 对资源包做一些个性化修改以方便自己使用。
+- 在非公开场合分享资源包文件。
+- 制作依赖于该资源包的补充内容并发布。
+
+您不可以：
+
+- 稍作修改甚至不修改就二次发布，甚至不注明原作者。
+- 将资源包用作商业用途。
+- 将资源包搬运到国内其他网站，甚至不使用原下载地址。
+- 将资源包放入整合包中并发布。
+- 利用此资源包进行任何违反 Minecraft EULA 的行为。
