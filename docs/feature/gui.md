@@ -14,12 +14,12 @@
 
 ![生存模式物品栏](../image/gui/inventory.png)
 
+## 配方书
+![配方书](../image/gui/recipe_book.png)
+
 ## 功能性方块
 ### 工作台
 ![工作台](../image/gui/crafting_table.png)
-
-### 配方书
-![配方书](../image/gui/recipe_book.png)
 
 ### 熔炉
 ![熔炉](../image/gui/furnace.png)
