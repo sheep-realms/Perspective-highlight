@@ -37,6 +37,15 @@ ruby>span {
     color: #FFC105;
 }
 
+img.pixel {
+    image-rendering: pixelated;
+}
+
+img.center {
+    display: block;
+    margin: auto;
+}
+
 a.footnote-ref {
     user-select: none;
 }
@@ -47,4 +56,11 @@ a.footnote-ref::before {
 
 a.footnote-ref::after {
     content: ']';
+}
+
+.color-show {
+    display: inline-block;
+    height: 14px;
+    width: 72px;
+    border-radius: 4px;
 }
