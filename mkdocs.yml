@@ -83,6 +83,10 @@ nav:
   - 欢迎使用: index.md
   - 选择合适的版本: main/select_version.md
   - 安装: main/install.md
+- 特性列表:
+  - 总览: feature/index.md
+  - GUI: feature/gui.md
+  - 红石元件: feature/redstone.md
 - 更新日志:
   - 所有更新日志:
     - 第五代（OptiFine支持版本）:
@@ -108,5 +112,7 @@ nav:
       - update/3/3.0.md
 - 开发文档:
   - 前言: dev/index.md
+  - 台阶: dev/slab.md
+  - 楼梯: dev/stairs.md
   - 替换音符盒图标: dev/noteblock_icon.md
 - 设计指南: design/index.md
