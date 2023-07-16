@@ -7,7 +7,8 @@
 ![夜间全家福](image/family_portraits_night.jpg)
 
 ## :material-sign-direction: 导航
-- [MCBBS](https://www.mcbbs.net/thread-867407-1-1.html)
+- [MCBBS](https://www.mcbbs.net/thread-867407-1-1.html){ targer="_blank" }
+- [GitHub 反馈](https://github.com/sheep-realms/Perspective-highlight/issues){ targer="_blank" }
 
 ## :material-license: 授权协议
 - :fontawesome-regular-copyright: Copyright - 作者保留所有权利

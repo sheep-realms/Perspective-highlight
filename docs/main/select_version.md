@@ -5,7 +5,7 @@
 ## :fontawesome-brands-java: Java 版
 | :material-gamepad: 游戏版本 | :material-source-branch: 最新资源包版本 | :material-puzzle: 支持情况 | :material-airplane: OptiFine 特性 |
 | - | - | - | - |
-| 1.20 | 5.2 | :material-check: 持续更新 | :material-check: 有 |
+| 1.20 | 5.3 | :material-check: 持续更新 | :material-check: 有 |
 | 1.19.4 | 5.1 | :material-history: 向上兼容，不再维护 | :material-check: 有 |
 | 1.19.3 | 5.1 | :material-history: 不再维护 | :material-check: 有 |
 | 1.19 | 5.0 | :material-history: 不再维护 | :material-check: 有 |
